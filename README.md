@@ -6,7 +6,7 @@
 
 This repository contains **three structured 12-month rollout plans** designed to help new customers successfully adopt the Swagger API platform:
 
-- **Swagger Studio** → Design-first API development  
+- **Swagger Studio** → API-first development  
 - **Swagger Portal** → API documentation & discoverability  
 - **Swagger Contract Testing** → Quality, testing, and CI/CD validation  
 
@@ -26,7 +26,7 @@ Each plan follows a **month-by-month structure**, with clear activities, success
 
 | File | Description |
 |------|-------------|
-| `swagger-studio-12-month-roadmap.md` | Design-first API development, governance, and reuse strategy |
+| `swagger-studio-12-month-roadmap.md` | API-first API development, governance, and reuse strategy |
 | `swagger-portal-12-month-roadmap.md` | API discovery, documentation, and developer experience |
 | `swagger-contract-testing-12-month-roadmap.md` | Contract testing, shift-left quality, and CI/CD integration |
 
@@ -51,7 +51,7 @@ Each plan follows a **month-by-month structure**, with clear activities, success
 ### For Customers (API Teams & Leaders)
 - Treat each roadmap as a **playbook for maturity**
 - Align internal teams around:
-  - Design-first principles
+  - API-first principles
   - Self-service API consumption
   - Automated quality gates
 - Use KPIs to demonstrate **business impact**
