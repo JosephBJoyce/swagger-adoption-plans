@@ -1,15 +1,15 @@
 ![Swagger Logo](swagger-logo.png)
 
-# API Hub | Adoption Roadmaps
+# Swagger | Adoption Roadmaps
 
-This repository contains comprehensive 12-month customer success roadmaps for each module of the API Hub. These roadmaps are designed for Customer Success Managers, Customer Success Engineers and Solutions Engineers to help guide customers through implementation, adoption, and value realization during their first year with the product.
+This repository contains comprehensive 12-month customer success roadmaps for each module of Swagger. These roadmaps are designed for Customer Success Managers, Customer Success Engineers and Solutions Engineers to help guide customers through implementation, adoption, and value realization during their first year with the product.
 
 ## Repository Structure
 
 The repository is organized into three folders, each containing a detailed customer success roadmap for a specific tool:
 
 - **Contract Testing** - Contract testing implementation roadmap
-- **Design** - API design-first implementation roadmap  
+- **Studio** - API design-first implementation roadmap  
 - **Portal** - API documentation portal roadmap
 
 Each folder contains a markdown (.md) file with a structured 12-month plan including monthly activities, success metrics, check-in schedules, and common challenges with solutions.
