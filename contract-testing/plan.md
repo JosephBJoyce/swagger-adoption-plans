@@ -1,4 +1,4 @@
-# API Hub for Contract Testing | Customer Success Roadmap
+# Contract Testing | Customer Success Roadmap
 ## First 12 Months Implementation & Adoption Plan
 
 ## Table of Contents
