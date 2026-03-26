@@ -1,4 +1,4 @@
-# Studio| Customer Success Roadmap
+[# Studio| Customer Success Roadmap
 ## First 12 Months Implementation & Adoption Plan
 
 ## Table of Contents
@@ -407,3 +407,4 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - [API Hub CLI](https://github.com/SmartBear/swaggerHub-cli)
 - [API Hub Registry API](https://app.swaggerhub.com/apis/swagger-hub/registry-api/)
 - [API Governance Guide](https://swagger.io/resources/articles/api-governance-guidelines/)
+](https://github.com/JosephBJoyce/swagger-adoption-plans/tree/main)
