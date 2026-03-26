@@ -1,4 +1,4 @@
-[# Studio| Customer Success Roadmap
+# Studio Customer Success Roadmap
 ## First 12 Months Implementation & Adoption Plan
 
 ## Table of Contents
