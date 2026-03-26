@@ -1,4 +1,4 @@
-# API Hub for Design | Customer Success Roadmap
+# Studio| Customer Success Roadmap
 ## First 12 Months Implementation & Adoption Plan
 
 ## Table of Contents
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This document serves as a guide for Customer Success Managers (CSMs) supporting customers during their first 12 months with API Hub. It outlines a structured approach to ensure customers successfully implement a design-first API strategy, maximize collaboration on API design, and significantly reduce time-to-market for their APIs.
+This document serves as a guide for Customer Success Managers (CSMs) supporting customers during their first 12 months with Swagger Studio. It outlines a structured approach to ensure customers successfully implement a design-first API strategy, maximize collaboration on API design, and significantly reduce time-to-market for their APIs.
 
 The plan assumes a phased approach:
 - **Months 1-3**: Initial setup, training, and pilot API project
