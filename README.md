@@ -1,4 +1,4 @@
-![API Hub Logo](api-hub-logo.png)
+![Swagger Logo](swagger-logo.png)
 
 # API Hub | Adoption Roadmaps
 
