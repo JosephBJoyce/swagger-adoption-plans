@@ -21,7 +21,7 @@ The plan assumes a phased approach:
 
 ## Success Metrics & KPIs
 
-Track these key metrics to demonstrate the ROI of design-first API development with API Hub:
+Track these key metrics to demonstrate the ROI of design-first API development with Swagger:
 
 ### API Development Efficiency Metrics
 - **API design time reduction**: % decrease in time spent on API design phase
