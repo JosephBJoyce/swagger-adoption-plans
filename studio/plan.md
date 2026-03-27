@@ -379,5 +379,3 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - [CI/CD Integration Examples](https://support.smartbear.com/swaggerhub/docs/integrations/)
 - [Swagger CLI](https://github.com/SmartBear/swaggerHub-cli)
 - [Swagger Registry API](https://app.swaggerhub.com/apis/swagger-hub/registry-api/)
-- [API Governance Guide](https://swagger.io/resources/articles/api-governance-guidelines/)
-](https://github.com/JosephBJoyce/swagger-adoption-plans/tree/main)
