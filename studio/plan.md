@@ -59,7 +59,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 **Activities**:
 - Initial kickoff call (Week 1)
 - Swagger environment setup and configuration
-- Admin console setup and user management
+- Admin setup and user management
 - Training: Introduction to OpenAPI and design-first approach
 - Identify 1-2 pilot API projects for initial implementation
 - Import existing API definitions (if applicable)
@@ -76,10 +76,8 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 **Focus**: Implementing design-first approach for pilot APIs
 
 **Activities**:
-- Weekly technical check-ins with implementation team
-- Hands-on assistance with API design best practices
+- Assistance with API design best practices
 - Implementation of organization-specific style guides
-- Developer workshops on effective API design
 - Setting up API design review processes
 - Training on Swagger's collaboration features
 - Guidelines for API documentation and descriptions
@@ -139,13 +137,10 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - Advanced workshop: Swagger in CI/CD
 - Standardization of naming conventions and patterns
 - Integration with API gateways (if applicable)
-- Setup of automated API documentation generation
 
 **Success Criteria**:
 - Swagger integrated with CI/CD processes
-- Automated validation of API designs in pipeline
 - Standardized naming conventions implemented
-- API documentation automatically generated and published
 - Consistent API design patterns emerging
 
 ### Month 6: Mid-term Assessment & Strategy Refinement
@@ -172,19 +167,13 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 **Activities**:
 - Establishment of API governance committee
-- Implementation of approval workflows
-- Creation of governance dashboards
 - Training on API governance best practices
 - Development of metrics for API quality
-- Setup of automated style rule checking
-- Implementation of security validation
 
 **Success Criteria**:
 - API governance process implemented
-- Approval workflows in use
 - Automated quality and style checking
 - Security validation integrated
-- Governance dashboards providing visibility
 
 ### Month 8: Advanced Features & Scaling
 **Focus**: Implementing advanced features and scaling across organization
@@ -199,8 +188,6 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 **Success Criteria**:
 - Teams using advanced Swagger features
-- API Registry implemented for discovery
-- Dependencies managed effectively
 - Custom integrations implemented where needed
 - Workflows optimized for efficiency
 
@@ -209,7 +196,6 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 **Activities**:
 - Implementation of enhanced collaboration workflows
-- Creation of API consumer portals
 - Training on effective API consumer documentation
 - Enhancement of API discoverability
 - Setup of consumer feedback channels
@@ -218,7 +204,6 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 **Success Criteria**:
 - Improved collaboration metrics
-- API consumer portals implemented
 - Versioning strategy in place
 - Changelog process established
 - Consumer feedback channels active
@@ -389,18 +374,6 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - Use Swagger's version control features
 - Create guidelines for breaking vs. non-breaking changes
 - Setup automated compatibility checking
-
-## Resources
-
-### Swagger Documentation Resources
-- [Swagger Documentation](https://support.smartbear.com//)
-- [OpenAPI Specification](https://swagger.io/specification/)
-- [Best Practices Guide](https://swagger.io/resources/articles/best-practices-in-api-design/)
-
-### Training Resources
-- [Swagger Academy](https://academy.smartbear.com/)
-- [API Design Workshops](https://swagger.io/resources/webinars/)
-- [OpenAPI Initiative](https://www.openapis.org/)
 
 ### Implementation Resources
 - [CI/CD Integration Examples](https://support.smartbear.com/swaggerhub/docs/integrations/)
