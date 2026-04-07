@@ -35,8 +35,8 @@ Traditional integration testing introduces **slow feedback, tight coupling, and 
 - Breaking changes detected before deployment
 
 ### Speed Metrics
-- CI pipeline duration (target: ↓ 20–30%)
-- Time to detect integration issues (target: near real-time)
+- CI pipeline duration 
+- Time to detect integration issues 
 - Deployment frequency increase
 
 ### Efficiency Metrics
